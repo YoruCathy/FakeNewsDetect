@@ -21,3 +21,8 @@ Images are stored in `img/.`.
 
 # Report
 Report is available at <https://drive.google.com/file/d/1Ql60JlzvUKBmEKhUdS7m8VN1orMk9ld7/view?usp=sharing>
+
+# Talk
+We will make a representation about our project.
+
+PPT will be available before the talk.
