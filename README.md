@@ -4,7 +4,7 @@ Create a python environment with `conda create -n mmdet python=3.6`.
 Install python libraries with `pip install -r requirements.txt`.
 
 # Dataset preparation
-We get data from FakeNewsNet, and format it to a `.csv` file, with the `data_process/generate_csv.py`. 
+We get data from [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet), and format it to a `.csv` file, with the `data_process/generate_csv.py`. 
 
 Details are written in the comments in the python file.
 
