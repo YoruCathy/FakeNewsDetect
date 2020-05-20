@@ -16,8 +16,8 @@ Models are implemented in the `infor/infer.py`.
 
 Use `infer/grid_tuning.py` to search for hyper parameters.
 
-# Model results
-Images are stored in `img/.`.
+# Data Analysis
+Images are in `img/.`.
 
 # Report
 Report is available at <https://drive.google.com/file/d/1Ql60JlzvUKBmEKhUdS7m8VN1orMk9ld7/view?usp=sharing>
