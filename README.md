@@ -20,7 +20,7 @@ Use `infer/grid_tuning.py` to search for hyper parameters.
 Images are in `img/.`.
 
 # Report
-Report is available at [GoogleDrive](https://drive.google.com/file/d/1Ql60JlzvUKBmEKhUdS7m8VN1orMk9ld7/view?usp=sharing) and [OneDrive](https://1drv.ms/b/s!Ajer_CQyaDnzri5xBquIANhKgy01?e=Y2VekA).
+Report is available at [JBox](https://jbox.sjtu.edu.cn/l/VooiKI) and [OneDrive](https://1drv.ms/b/s!Ajer_CQyaDnzri96OwlRTwk2wF3b?e=l8WLkN).
 
 # Talk
 We will make a representation about our project.
