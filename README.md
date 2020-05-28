@@ -12,7 +12,7 @@ Details are written in the comments in the python file.
 Sentiment analysis is done by `data_process/sentiment_analysis.py`, and is visualized by  `data_process/sentiment_plot.py`. `data_process/tsne.py` is used to visualize tsne result.
 
 # Run the model
-Models are implemented in the `infor/infer.py`.
+Models are implemented in the `infer/infer.py`.
 
 Use `infer/grid_tuning.py` to search for hyper parameters.
 
