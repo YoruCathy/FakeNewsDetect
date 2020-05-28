@@ -23,6 +23,4 @@ Images are in `img/.`.
 Report is available at [JBox](https://jbox.sjtu.edu.cn/l/VooiKI) and [OneDrive](https://1drv.ms/b/s!Ajer_CQyaDnzri96OwlRTwk2wF3b?e=l8WLkN).
 
 # Talk
-We will make a representation about our project.
-
-PPT will be available before the talk.
+[Here](https://github.com/YoruCathy/FakeNewsDetect/blob/master/presentation.pdf) comes the ppt.
